@@ -1,2 +1,4 @@
 # GithubAction-CICD-tutorial
-Repo for introduction to github ci-cd
+```CI/CD is an important part of a developers journey```
+
+This repository contains files that can be used to practise, and understand ci/cd pipelines.
